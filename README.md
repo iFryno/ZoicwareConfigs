@@ -26,6 +26,11 @@
 - Show all tray icons
 - Windows 10 Recycle Bin icon
 - Disable bell icon on taskbar
+- Windows 10 Snipping Tool
+- Hide recommended section in start menu
+- Hide home in settings
+- Hide ads and annoying cards in settings
+- Disable Notepad tabs and Rewrite
 
 
 ## How to Use
