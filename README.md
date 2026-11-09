@@ -1,5 +1,5 @@
 ## Windows 11 Safe Config
-- All registry tweaks included in Zoicware. [Read More](https://github.com/zoicware/ZOICWARE/blob/main/registrytweaks.md)
+- All registry tweaks included in Zoicware. [Read More](https://github.com/iFryno/ZOICWARE/blob/main/registrytweaks.md)
 - Install essential packages such as C++, DirectX and .NET 3.5.
 - Disable telemetry.
 - Fully debloat Windows, leaving only Paint, Photos, Notepad, Terminal, Store and Xbox.
@@ -47,7 +47,7 @@
 - Enable the 24H2 Start menu.
 
 ## How to Use
-1. Download the latest version of Zoicware from the [releases](https://github.com/zoicware/ZOICWARE/releases) page.
+1. Download the latest version of Zoicware from the [releases](https://github.com/iFryno/ZOICWARE/releases) page.
 2. Download your desired config.
 3. Run Zoicware and navigate to `Utilities` > `Import/Export Config`.
 4. Choose the location of the config file and click `Run Tweaks`.
