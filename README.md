@@ -47,7 +47,7 @@
 - Enable the 24H2 Start menu.
 
 ## How to Use
-1. Download the latest version of Zoicware from the [releases](https://github.com/iFryno/ZOICWARE/releases) page.
+1. Join the [Discord Server](https://discord.gg/VsC7XS5vgA) and check the pins in #general for the temporary download link and download zoicwareOS.zip.
 2. Download your desired config.
 3. Run Zoicware and navigate to `Utilities` > `Import/Export Config`.
 4. Choose the location of the config file and click `Run Tweaks`.
